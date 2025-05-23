@@ -84,7 +84,7 @@ df_result = analyze_outputs(outputs)
 print(df_result)
 
 ```
-#Output:
+# Output:
 Sample Output:
 Querying AI Tools
 OpenAI:
